@@ -1,0 +1,16 @@
+scaffold584.fasta.des
+scaffold584.fasta.esq
+scaffold584.fasta.md5
+scaffold584.fasta.ois
+scaffold584.fasta.sds
+scaffold584.ltrdigest.gff3
+scaffold584.ltrharvest.fa
+scaffold584.ltrharvest.gff3
+scaffold584.ltrharvest.out
+scaffold584.ltrharvest.sorted.gff3
+*~
+eukaryotic-tRNAs/
+gydb_hmms
+index/
+outinner/
+ltrdigest/
